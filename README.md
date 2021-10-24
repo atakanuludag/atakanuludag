@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a React Developer at NUEVO Yazılım Çözümleri A.Ş.
+- 💼 &nbsp; Working as a React Developer at MONSTER BILGISAYAR TEKNOLOJI URUNLERI A.Ş.
 
 <h3>🛠 Tech Stack</h3>
 
