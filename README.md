@@ -12,6 +12,8 @@
 
 <br/>
 
+![snake gif](https://github.com/atakanuludag/atakanuludag/blob/output/github-contribution-grid-snake.gif)
+
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakanuludag&show_icons=true)](https://github.com/atakanuludag)
 
 <h3> 🤝🏻 Connect with Me </h3>
