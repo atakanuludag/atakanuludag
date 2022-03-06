@@ -10,11 +10,12 @@
 - 🛢 &nbsp; MSSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git 
 
-<br/>
+### 📈 GitHub Activity Graph:
+![atakanuludag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=atakanuludag&hide_border=true&theme=github)
 
-![snake gif](https://github.com/atakanuludag/atakanuludag/blob/output/github-contribution-grid-snake.gif)
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakanuludag&show_icons=true)](https://github.com/atakanuludag)
+ 📊 GitHub Stats | 🚀 Used Languages
+--- | --- 
+[![atakanuludag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakanuludag&show_icons=true)](https://github.com/atakanuludag) | ![atakanuludag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atakanuludag&layout=compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
